@@ -25,7 +25,12 @@ label {
 input {
   margin-top: 10px;
   margin-bottom: 10px;
+  border: solid 0.5px rgb(175, 175, 175);
+  padding: 10px;
+  border-radius: 7px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
+
 .submit {
   background: rgb(74, 74, 238);
   color: #fff;
